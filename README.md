@@ -1,6 +1,7 @@
 # cfnv
 
 FNV Hash for Crystal
+
 Support bit
 
  * 32bit
